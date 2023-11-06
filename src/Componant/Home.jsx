@@ -20,9 +20,6 @@ const Home = () => {
       <HomeBanner/>
       <ProGallary/>
       <Footer/>
-      {/* <h1 className='heading'>Welcome Home</h1><br />
-      <button className='btn' onClick={()=>router("/products")}>Products</button> */}
-  
     </div>
   )
 }

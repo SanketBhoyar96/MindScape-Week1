@@ -89,7 +89,7 @@ const Footer = () => {
                         <a href=""><i class="fa-regular fa-circle-question"></i>Help Center</a>
                         </div>
                         <div>
-                        <a href="">© 2023 CopyRightBy Sanket Bhoyar.com</a>
+                        <a href="">©2023 Sanket Bhoyar.com</a>
                         </div>
                         <div>
                         <img src="https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/payment-method_69e7ec.svg" alt="" />
